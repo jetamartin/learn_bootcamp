@@ -1,2 +1,2 @@
 ��# README #
-Contains code from Learn Bootcamp
+Contains code from Learn Bootcamp class
